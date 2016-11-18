@@ -7,4 +7,4 @@ Complexity: O(W * H * I) ...where W * H = *pixels processed,*  I = *number of it
 ---
 
 Example Output (after zoom) :
-https://github.com/Ibsardar/Mandelbrot_Set_Visualizer/blob/master/mset_blue.png
+![A Screenshot!](mset_blue.png?raw=true "M-Set is blue!")
